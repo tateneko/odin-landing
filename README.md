@@ -1,0 +1,1 @@
+This repo contains the files for the final CSS Foundations project in The Odin Project's Foundations course.
